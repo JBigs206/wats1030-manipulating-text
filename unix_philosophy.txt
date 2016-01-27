@@ -1,0 +1,9 @@
+<html>
+<body>
+<p><b>The Unix Philosophy</b></p>
+<p>From <i>The Unix Programming Environment</i> &#40;1984&#41; by Brian Kernighan and Rob Pike</p>
+<br>
+<p>Even though the Unix system introduces a number of innovative programs and techniques, no single progran or idea makes it work well. Instead,
+</p>
+</body>
+</html>
