@@ -1,0 +1,12 @@
+
+<html>
+<p><b>The Unix Philosophy</b></p>
+<p>From <i>The Unix Programming Environment</i> &#40;1984&#41; by Brian Kernigh$
+<br>
+<p>Even though the Unix system introduces a number of innovative programs and t$
+ Instead, what makes it effective is the approach to programming, a philosophy $
+Many UNIX programs do quite trivial things in isolation, but, combined with oth$
+</p>
+</body>
+</html>
+
